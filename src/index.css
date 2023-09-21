@@ -18,7 +18,7 @@
 
 .Card {
   color: #000;
-  background-color: #fff;
+  background-color: #ffffff;
   padding-bottom: 20px;
   box-shadow: 0 15px 25px #817c7c33;
   font-size: medium;
@@ -33,15 +33,23 @@ div {
   display: block;
 }
 
-  .header h1 {
-    color: #fff;
-    font-size: 80px;
-    text-shadow: black 1px 0 10px;
-    padding-bottom: 18px;
-    margin-left: 50px;
+h1 {
+  color: #fff;
+  font-size: 80px;
+  text-shadow: black 1px 0 10px;
+  padding-bottom: 18px;
+  margin-left: 50px
+}
+
+h1 {
+  font-size: 75px;
+  line-height: 1.1
+}
+
+  
+  .header img {
+    height: 500px;
   }
-  
-  
 
   .container {
     display: flex;
@@ -79,7 +87,7 @@ h4 {
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
-  background-color: #a9e2e4;
+  background-color: #0d28ae;
   color-scheme: light dark;
   color: #fff;
   background-size: cover auto;
@@ -108,7 +116,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #cc0606;
+  background-color: #3d3fc896;
   cursor: pointer;
   transition: border-color .25s
 }

@@ -6,6 +6,6 @@ export default function Card(props) {
             style={{ width: "300px", height: "300px" }}/>            
             <h3>{props.name}</h3>
             <h4>{props.type}</h4>
-            <a href={props.viewmenu} target="_blank" rel="noopener noreferrer"><button>View Menu</button></a>        </div>
+            <a href={props.viewmenu} target="_blank" rel="noopener noreferrer"><button>View Game</button></a>        </div>
     );
 }
