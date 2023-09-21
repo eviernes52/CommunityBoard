@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![](https://github.com/eviernes52/web102_prework/blob/main/Recording%202023-09-21%20at%2012.10.21.gif)
+![](https://github.com/eviernes52/CommunityBoard/blob/main/Recording%202023-09-21%20at%2012.10.21.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with GifCap.dev
 
