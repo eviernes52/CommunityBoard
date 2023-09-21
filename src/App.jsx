@@ -29,6 +29,15 @@ viewmenu="https://kingsouvlakinyc.com/"
 
 <div className="Card">
 <Card
+image="https://res.cloudinary.com/the-infatuation/image/upload/c_fill,w_1200,ar_4:3,g_auto,f_auto/cms/reviews/mysttik-masala/banners/1561989798.42"
+name="Mysttik Masala"
+type="Indian"
+viewmenu="https://indianfoodny.com/"
+/>
+</div>
+
+<div className="Card">
+<Card
 image="https://fastly.4sqi.net/img/general/600x600/61129566_7PLEKHNMZ-VNqzYx2jWRVZGrZ42PdPX0M-j9Ftpg8Ts.jpg"
 name="Ling's Sweet Mini Cakes"
 type="Chinese"
