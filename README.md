@@ -1,8 +1,8 @@
-# Web Development Project 1 - *Food Truck Favorites*
+# Web Development Project 1 - *Sport Team Game Day Favorites*
 
 Submitted by: **Emiliano Viernes**
 
-This web app: **insert description**
+This web app: **Simple sports team static webpage built in react and vite with components and props**
 
 Time spent: **4** hours spent in total
 
