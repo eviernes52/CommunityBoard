@@ -4,7 +4,7 @@ Submitted by: **Emiliano Viernes**
 
 This web app: **Simple sports team static webpage built in react and vite with components and props**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -20,16 +20,16 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [X] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![](https://github.com/eviernes52/web102_prework/blob/main/Recording%202023-09-21%20at%2012.10.21.gif)
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with GifCap.dev
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
