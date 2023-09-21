@@ -29,7 +29,10 @@
   height: 450px
 }
 
-div {display: block;}
+div {
+  display: block;
+}
+
   .header h1 {
     color: #fff;
     font-size: 80px;
@@ -38,6 +41,8 @@ div {display: block;}
     margin-left: 50px;
   }
   
+  
+
   .container {
     display: flex;
     flex-wrap: wrap;
@@ -139,3 +144,4 @@ button:hover {
       background-color: #f9f9f9
   }
 }
+
